@@ -2,13 +2,13 @@
 name = "biomni-agent"
 version = "0.0.1"
 description = "General-purpose biomedical AI agent integrating LLM reasoning, retrieval-augmented planning, and code-based execution; many domain-specific tools"
-authors = [{ name = "Paras Chamoli", email = "paras25619@gmail.com" }]
+authors = [{ name = "Paras Chamoli", email = "paras@getbindu.com" }]
 readme = "README.md"
 keywords = ['python']
 requires-python = ">=3.12,<3.13"
 dependencies = [
     "agno>=2.2.0",
-    "bindu==2026.9.2.2",
+    "bindu==2026.9.4",
     "sqlalchemy==2.0.44",
     "requests>=2.31.0",
     "pyperclip>=1.8.0",

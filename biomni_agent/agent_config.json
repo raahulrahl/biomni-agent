@@ -1,5 +1,5 @@
 {
-  "author": "paras25619@gmail.com",
+  "author": "paras@getbindu.com",
   "name": "biomni-agent",
   "description": "General-purpose biomedical AI agent integrating LLM reasoning, retrieval-augmented planning, and code-based execution; many domain-specific tools",
   "version": "1.0.0",
